@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+
+<AnchorPane id="AnchorPane" prefHeight="181.0" prefWidth="271.0" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/8" fx:controller=".AlunoikaroController">
+   <children>
+      <TextField fx:id="txtalunonome" layoutX="23.0" layoutY="36.0" prefHeight="25.0" prefWidth="203.0" />
+      <Button fx:id="btnsalvar" layoutX="94.0" layoutY="97.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="68.0" text="Salvar" />
+      <Button fx:id="btnfechar" layoutX="174.0" layoutY="97.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="68.0" text="fechar" />
+   </children>
+</AnchorPane>
